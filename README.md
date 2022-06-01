@@ -1,3 +1,3 @@
 # modal-js-css
 
-[[image(modalImg.png)]]
+<img src="modalImg.png" width="200px" heigth= "auto">
